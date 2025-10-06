@@ -1,1 +1,1 @@
-Jogo da velha, tanto em console quanto em Gui, conforme video.
+Jogo da velha, tanto em console quanto em Gui, conforme videos.
